@@ -7,3 +7,6 @@ https://ccrma.stanford.edu/~mindyc/256a/final/
 Here are some sample frequency distributions and array_data plots from my code
 
 ![PoissonWake freq](https://github.com/hrahman12/-Brain-Freeze--Using-QPAM-to-distort-incoming-neural-signals/assets/33207831/9380ed36-30d5-4999-8953-b21041990f9e)
+
+![Poisson Wake arraydata](https://github.com/hrahman12/-Brain-Freeze--Using-QPAM-to-distort-incoming-neural-signals/assets/33207831/7119454f-f2da-4f39-a662-8e9201a3bb08)
+
